@@ -10,3 +10,6 @@ Android App to display popular movies using TMDB API in MVP Architecture.
  
  ### Backend Service:
  [The Movie Database](https://developers.themoviedb.org/3/movies)
+ 
+ ### About the app:
+ App uses room for demonstration purpose. The intent is not for the app to work offline. Test cases are there for presenter and backend dao layer
